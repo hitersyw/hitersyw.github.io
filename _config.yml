@@ -6,14 +6,14 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Zerui Wang
+title:            Yanwen Sun
 tagline:          'Happy coding, happy blogging.'
 description:      'Start here,<br>make a difference.'
 url:              http://www.wangzerui.com/
 
 author:
-  name:           'Zerui Wang'
-  email:          zerui.j.wang@gmail.com
+  name:           'Yanwen Sun'
+  email:          sywhit@hotmail.com
 
 paginate:         3
 paginate_path: "blog/page:num"
@@ -23,7 +23,7 @@ gems: [jekyll-paginate]
 # custom vars
 since:                  2015
 google_analytics:       UA-63207330-1
-emailme:                mailto:zerui.j.wang@gmail.com
+emailme:                mailto:sywhit@hotmail.com
 github:
   repo:                 https://github.com/zrwang/zrwang.github.io/
 version:                Feb.7.2020

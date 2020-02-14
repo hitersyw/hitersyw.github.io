@@ -1,6 +1,6 @@
 ### Zerui's Home Page
 
-[http://www.wangzerui.com](http://www.wangzerui.com)
+[http://www.sunyanwen.top](http://www.sunyanwen.top)
 
 ### Theme
 
@@ -10,6 +10,4 @@ The theme is forked from [hyde](https://github.com/poole/hyde).
 
 Open sourced under the [MIT license](LICENSE.md).
 
-### Acknowledgment
 
-Thanks to [Long Qian](http://longqian.me), I am motivated to start blogging.
