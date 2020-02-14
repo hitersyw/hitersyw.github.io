@@ -3,7 +3,7 @@ layout: aboutme
 title: About Me
 ---
 
-<p class="full-width no-margin"><img src="/public/image/zhengjian.jpg" alt="ywsun" style="width:15rem;height:15rem;" align="right"/></p>
+<p class="full-width no-margin"><img src="/public/image/zhengjian.jpg" alt="ywsun" style="full-width;full-height;" align="right"/></p>
 
 <blockquote class="full-width"><p>Roboticist</p></blockquote>
 
