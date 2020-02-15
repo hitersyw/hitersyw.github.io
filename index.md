@@ -7,7 +7,7 @@ title: About Me
 
 <blockquote class="full-width"><p>Roboticist</p></blockquote>
 
-I was a Ph.D student in [State Key Laboratory of Robotics and System](http://robot.hit.edu.cn){:target="_blank"} , [Harbin Institute of Technology](http://www.hit.edu.cn){:target="_blank"} (HIT), advised by [Prof. Yili Fu](http://homepage.hit.edu.cn/fuyili){:target="_blank"} . and then I served as a Post-Doctoral Research Fellow in the MAE department at CUHK for half a year.
+I was a Ph.D student in [State Key Laboratory of Robotics and System](http://robot.hit.edu.cn){:target="_blank"} , [Harbin Institute of Technology](http://www.hit.edu.cn){:target="_blank"} (HIT), advised by [Prof. Yili Fu](http://homepage.hit.edu.cn/fuyili){:target="_blank"} . 
 
 I received M.S. degree at [Center for Precision Engineering](http://cpe.hit.edu.cn){:target="_blank"} , [Harbin Institute of Technology](http://www.hit.edu.cn){:target="_blank"} (HIT), advised by [Prof. Yongda Yan](http://homepage.hit.edu.cn/yanyongda){:target="_blank"} .
 
@@ -15,7 +15,6 @@ I received B.E. degree at [School of Mechatronics Engineering](http://sme.hit.ed
 
 My research interests are vision-based soft object manipulation, vision-based surgical tool tracking and control, and developments of surgical robot systems, with emphasis on both scientific and engineering aspects.
 
-You can find the detailed information about me in my {% if site.cv_chn %}curriculum vita ([ENG](../zrwang.resume/cv.pdf){:target="_blank"}, [CHN](../zrwang.resume.zh/cv.pdf){:target="_blank"}),{% else %}[Curriculum Vita](../zrwang.resume/cv.pdf){:target="_blank"}{% endif %} and some technique blog posts in this [LINK](../blog/){:target="_blank"}.
 
 ### Education
 * Ph.D. Degree, Mechanical and Electronic Engineering, Harbin Institute of Technology, China, Mar. 2018 ~ present
