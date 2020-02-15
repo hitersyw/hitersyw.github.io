@@ -22,11 +22,11 @@ gems: [jekyll-paginate]
 
 # custom vars
 since:                  2015
-google_analytics:       UA-63207330-1
+#google_analytics:       UA-63207330-1
 emailme:                mailto:sywhit@hotmail.com
 github:
   repo:                 https://github.com/hitersyw/hitersyw.github.io/
-version:                Feb.7.2020
+version:                Feb.15.2020
 orcid_username:         0000-0003-4281-5120
 researcherid_username:  R-3094-2018
 #googlescholar_username: fWi5tx8AAAAJ&hl
